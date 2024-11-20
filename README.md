@@ -5,9 +5,10 @@ I am a cybersecurity and data analytics professional with a strong foundation in
 Programming & Scripting: Python, SQL
 Data Analytics: Power BI, Azure Data Services
 Cybersecurity: Offensive and Defensive Security Techniques, Network Security
+
 Tools: Cisco Packet Tracer
 
-Projects
+Projects :
  Data-Driven Dashboards with Power BI
 Developed interactive dashboards to visualize complex datasets for actionable insights.
 Integrated Azure and SQL for automated reporting pipelines

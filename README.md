@@ -11,7 +11,7 @@ Integrated Azure and SQL for automated reporting pipelines
 
 📧 Email: radhakrishnasiram03@gmail.com
 🌐 LinkedIn: https://www.linkedin.com/in/naga-sai-radhakrishna-siram-443611250/
-💼 Portfolio/GitHub: [Your Portfolio/GitHub URL]
+💼 Portfolio/GitHub: (https://github.com/Radhakrishnasira)
 
 <!---
 Radhakrishnasira/Radhakrishnasira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
